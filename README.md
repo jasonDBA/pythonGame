@@ -12,7 +12,7 @@ This repository contains asteroids avoiding game using Python (pygame module). H
 5. Enjoy the game!
 
 ## NOTE
-The game level will be difficult, which means the speed will go up.
+The game level will be going difficult, which means the speed will be going faster.
 
 ## Reference
 ### What is pygame module?
