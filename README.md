@@ -4,7 +4,7 @@
 
 This repository contains an asteroids avoiding game using Python (pygame module). Hopfully you enjoy the game!
 
-## Steps
+## Installation
 1. Download the clone of the project from this github repo
 2. Unzip the file
 3. Open the folder in PyCharm Community Edition
