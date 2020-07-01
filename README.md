@@ -2,7 +2,7 @@
 
 ![](intro.gif) <br />
 
-This repository contains an asteroids avoiding game using Python (pygame module). Hopfully you enjoy the game!
+This repository contains asteroids avoiding game using Python (pygame module). Hopfully you enjoy the game!
 
 ## Installation
 1. Download the clone of the project from this github repo
